@@ -1,7 +1,7 @@
 import random
 #variaveis do jogo
-tentativas = 0
-limite_tentativas = 10
+Tentativas = 0
+Limite_tentativas = 10
 
 while True: 
     dificuldade = int((input("escolha a dificuldade: 1-facil 2-medio e 3-dificil ")))
